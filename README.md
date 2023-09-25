@@ -29,8 +29,8 @@ If you want to change the config, open up [config.json](https://discord.gg/zM6ZN
 module.exports = {
     app: {
         px: 'prefix',
-        token: 'put-token-here',
-        owners: ["owner-id","",],//
+        token: 'MTE1NTcxNjc3NjUwODc5Mjg1Mg.G89hAm.yarRQaiFiAeVrETEPiXg5J-r5EyQZ9ZG4qzAWI',
+        owners: ["996129342037962832","892436634417659904",],//
         funny: 'dev-id',
         color: '#2f3136',
         footer: 'Nova World',
